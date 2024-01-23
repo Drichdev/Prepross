@@ -23,6 +23,8 @@ $larg: 300px;
     padding: 10px;
     background: $violet;
     display: inline-block;
+    color: $blanc;
+    border-radius: 5px;
 }
 
 @mixin align{
